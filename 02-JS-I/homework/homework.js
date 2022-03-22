@@ -165,7 +165,7 @@ function esPositivo(numero) {
   else if (numero < 0) {
     return ('Es negativo');
   } 
-  else if (numero === 0) {
+  else if (numero == 0) {
     return false;
   }
    
